@@ -3,7 +3,7 @@
 // =========================================================
 
 // ATENÇÃO: ESTA URL DEVE SER A MESMA DO SEU APPS SCRIPT (Usada para GET e POST)
-const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzZ_648QeM6aU3OwEanHmNuBwhXhaswpc1Osr8GcqgzhMsSp-3Q765VZYt04kE9pwTL9Q/exec';
+const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxOYG1n3inyZulOsWF9SIAySzV9XprgLlFmqNYgPSUABd2Q77YjBRZpb0Dt1X-2ZWncbw/exec';
 
 // A lista de convidados será carregada dinamicamente aqui
 let LISTA_CONVIDADOS = [];
